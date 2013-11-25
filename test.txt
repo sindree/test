@@ -1,3 +1,5 @@
 Her er en test for GIT
 
 Legger til noe tekst
+
+legger til litt til
