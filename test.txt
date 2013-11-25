@@ -2,4 +2,6 @@ Her er en test for GIT
 
 Legger til noe tekst
 
-legger til litt til
+fjerner noe,
+
+legger til enda mer
