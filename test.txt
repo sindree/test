@@ -3,3 +3,5 @@ Her er en test for GIT
 Legger til noe tekst
 
 Hva skjer nå?
+
+La til tekst 14. juli
