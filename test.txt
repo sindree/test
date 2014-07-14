@@ -1,0 +1,5 @@
+Her er en test for GIT
+
+Legger til noe tekst
+
+Hva skjer nå?
